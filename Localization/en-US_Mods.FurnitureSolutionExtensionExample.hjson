@@ -1,0 +1,224 @@
+Items: {
+	ExampleFurnitureSolution: {
+		DisplayName: Example Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Example Furniture Set
+			'''
+	}
+
+	ThoriumFurnitureSolution: {
+		DisplayName: Thorium Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Thorium Furniture Set
+			'''
+	}
+
+	YewWoodFurnitureSolution: {
+		DisplayName: Yew Wood Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Yew Wood Furniture Set
+			'''
+	}
+
+	MarineFurnitureSolution: {
+		DisplayName: Marine Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Marine Furniture Set
+			'''
+	}
+
+	LodestoneFurnitureSolution: {
+		DisplayName: Lodestone Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Lodestone Furniture Set
+			'''
+	}
+
+	PermafrostFurnitureSolution: {
+		DisplayName: Permafrost Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Permafrost Furniture Set
+			'''
+	}
+
+	PlateFurnitureSolution: {
+		DisplayName: Plate Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Plate Furniture Set
+			'''
+	}
+
+	ScarletFurnitureSolution: {
+		DisplayName: Scarlet Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Scarlet Furniture Set
+			'''
+	}
+
+	OrnateFurnitureSolution: {
+		DisplayName: Ornate Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Ornate Furniture Set
+			'''
+	}
+
+	ValadiumFurnitureSolution: {
+		DisplayName: Valadium Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Valadium Furniture Set
+			'''
+	}
+
+	CursedFurnitureSolution: {
+		DisplayName: Cursed Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Cursed Furniture Set
+			'''
+	}
+
+	ShadyFurnitureSolution: {
+		DisplayName: Shady Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Shady Furniture Set
+			'''
+	}
+
+	NagaFurnitureSolution: {
+		DisplayName: Naga Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Naga Furniture Set
+			'''
+	}
+
+	BloodstainedFurnitureSolution: {
+		DisplayName: Bloodstained Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Bloodstained Furniture Set
+			'''
+	}
+
+	EvergreenWoodFurnitureSolution: {
+		DisplayName: Evergreen Wood Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Evergreen Wood Furniture Set
+			'''
+	}
+
+	GingerbreadFurnitureSolution: {
+		DisplayName: Gingerbread Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Gingerbread Furniture Set
+			'''
+	}
+
+	LivingMahoganyFurnitureSolution: {
+		DisplayName: LivingMahogany Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into LivingMahogany Furniture Set
+			'''
+	}
+
+	FossilFurnitureSolution: {
+		DisplayName: Fossil Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Fossil Furniture Set
+			'''
+	}
+
+	WhiteDwarfFurnitureSolution: {
+		DisplayName: White Dwarf Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into White Dwarf Furniture Set
+			'''
+	}
+
+	ShootingStarFurnitureSolution: {
+		DisplayName: Shooting Star Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Shooting Star Furniture Set
+			'''
+	}
+
+	CelestialFurnitureSolution: {
+		DisplayName: Celestial Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Celestial Furniture Set
+			'''
+	}
+
+	DeadwoodFurnitureSolution: {
+		DisplayName: Deadwood Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Deadwood Furniture Set
+			'''
+	}
+}
+
+Projectiles: {
+	ExampleFurnitureSolutionProjectile.DisplayName: Example Furniture Solution
+	ThoriumFurnitureSolutionProjectile.DisplayName: Thorium Furniture Solution
+	YewWoodFurnitureSolutionProjectile.DisplayName: Yew Wood Furniture Solution
+	MarineFurnitureSolutionProjectile.DisplayName: Marine Furniture Solution
+	LodestoneFurnitureSolutionProjectile.DisplayName: Lodestone Furniture Solution
+	PermafrostFurnitureSolutionProjectile.DisplayName: Permafrost Furniture Solution
+	PlateFurnitureSolutionProjectile.DisplayName: Plate Furniture Solution
+	ScarletFurnitureSolutionProjectile.DisplayName: Scarlet Furniture Solution
+	OrnateFurnitureSolutionProjectile.DisplayName: Ornate Furniture Solution
+	ValadiumFurnitureSolutionProjectile.DisplayName: Valadium Furniture Solution
+	CursedFurnitureSolutionProjectile.DisplayName: Cursed Furniture Solution
+	ShadyFurnitureSolutionProjectile.DisplayName: Shady Furniture Solution
+	NagaFurnitureSolutionProjectile.DisplayName: Naga Furniture Solution
+	BloodstainedFurnitureSolutionProjectile.DisplayName: Bloodstained Furniture Solution
+	EvergreenWoodFurnitureSolutionProjectile.DisplayName: Evergreen Wood Furniture Solution
+	GingerbreadFurnitureSolutionProjectile.DisplayName: Gingerbread Furniture Solution
+	LivingMahoganyFurnitureSolutionProjectile.DisplayName: Living Mahogany Furniture Solution
+	FossilFurnitureSolutionProjectile.DisplayName: Fossil Furniture Solution
+	WhiteDwarfFurnitureSolutionProjectile.DisplayName: White Dwarf Furniture Solution
+	ShootingStarFurnitureSolutionProjectile.DisplayName: Shooting Star Furniture Solution
+	CelestialFurnitureSolutionProjectile.DisplayName: Celestial Furniture Solution
+	DeadwoodFurnitureSolutionProjectile.DisplayName: Deadwood Furniture Solution
+}

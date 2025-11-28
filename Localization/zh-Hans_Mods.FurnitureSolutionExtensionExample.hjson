@@ -1,0 +1,224 @@
+Items: {
+	ExampleFurnitureSolution: {
+		DisplayName: Example家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为Example家具套装
+			'''
+	}
+
+	ThoriumFurnitureSolution: {
+		DisplayName: 瑟银家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为瑟银家具套装
+			'''
+	}
+
+	YewWoodFurnitureSolution: {
+		DisplayName: 紫衫木家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为紫衫木家具套装
+			'''
+	}
+
+	MarineFurnitureSolution: {
+		DisplayName: 海洋家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为海洋家具套装
+			'''
+	}
+
+	LodestoneFurnitureSolution: {
+		DisplayName: 地脉家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为地脉家具套装
+			'''
+	}
+
+	PermafrostFurnitureSolution: {
+		DisplayName: 永冻家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为永冻家具套装
+			'''
+	}
+
+	PlateFurnitureSolution: {
+		DisplayName: 金属家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为金属家具套装
+			'''
+	}
+
+	ScarletFurnitureSolution: {
+		DisplayName: 绯红家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为绯红家具套装
+			'''
+	}
+
+	OrnateFurnitureSolution: {
+		DisplayName: 华贵家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为华贵家具套装
+			'''
+	}
+
+	ValadiumFurnitureSolution: {
+		DisplayName: 虚金家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为虚金家具套装
+			'''
+	}
+
+	CursedFurnitureSolution: {
+		DisplayName: 诅咒家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为诅咒家具套装
+			'''
+	}
+
+	ShadyFurnitureSolution: {
+		DisplayName: 阴暗家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为阴暗家具套装
+			'''
+	}
+
+	NagaFurnitureSolution: {
+		DisplayName: 娜迦家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为娜迦家具套装
+			'''
+	}
+
+	BloodstainedFurnitureSolution: {
+		DisplayName: 血污家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为血污家具套装
+			'''
+	}
+
+	EvergreenWoodFurnitureSolution: {
+		DisplayName: 常青木家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为常青木家具套装
+			'''
+	}
+
+	GingerbreadFurnitureSolution: {
+		DisplayName: 姜饼家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为姜饼家具套装
+			'''
+	}
+
+	LivingMahoganyFurnitureSolution: {
+		DisplayName: 生命红木家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为生命红木家具套装
+			'''
+	}
+
+	FossilFurnitureSolution: {
+		DisplayName: 化石家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为化石家具套装
+			'''
+	}
+
+	WhiteDwarfFurnitureSolution: {
+		DisplayName: 白矮星家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为白矮星家具套装
+			'''
+	}
+
+	ShootingStarFurnitureSolution: {
+		DisplayName: 流影掠星家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为流影掠星家具套装
+			'''
+	}
+
+	CelestialFurnitureSolution: {
+		DisplayName: 天界家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为天界家具套装
+			'''
+	}
+
+	DeadwoodFurnitureSolution: {
+		DisplayName: 枯木家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为枯木家具套装
+			'''
+	}
+}
+
+Projectiles: {
+	ExampleFurnitureSolutionProjectile.DisplayName: Example家具溶液
+	ThoriumFurnitureSolutionProjectile.DisplayName: 瑟银家具溶液
+	YewWoodFurnitureSolutionProjectile.DisplayName: 紫衫木家具溶液
+	MarineFurnitureSolutionProjectile.DisplayName: 海洋家具溶液
+	LodestoneFurnitureSolutionProjectile.DisplayName: 地脉家具溶液
+	PermafrostFurnitureSolutionProjectile.DisplayName: 永冻家具溶液
+	PlateFurnitureSolutionProjectile.DisplayName: 金属家具溶液
+	ScarletFurnitureSolutionProjectile.DisplayName: 绯红家具溶液
+	OrnateFurnitureSolutionProjectile.DisplayName: 华贵家具溶液
+	ValadiumFurnitureSolutionProjectile.DisplayName: 虚金家具溶液
+	CursedFurnitureSolutionProjectile.DisplayName: 诅咒家具溶液
+	ShadyFurnitureSolutionProjectile.DisplayName: 阴暗家具溶液
+	NagaFurnitureSolutionProjectile.DisplayName: 娜迦家具溶液
+	BloodstainedFurnitureSolutionProjectile.DisplayName: 血污家具溶液
+	EvergreenWoodFurnitureSolutionProjectile.DisplayName: 常青木家具溶液
+	GingerbreadFurnitureSolutionProjectile.DisplayName: 姜饼家具溶液
+	LivingMahoganyFurnitureSolutionProjectile.DisplayName: 生命红木家具溶液
+	FossilFurnitureSolutionProjectile.DisplayName: 化石家具溶液
+	WhiteDwarfFurnitureSolutionProjectile.DisplayName: 白矮星家具溶液
+	ShootingStarFurnitureSolutionProjectile.DisplayName: 流影掠星家具溶液
+	CelestialFurnitureSolutionProjectile.DisplayName: 天界家具溶液
+	DeadwoodFurnitureSolutionProjectile.DisplayName: 枯木家具溶液
+}
