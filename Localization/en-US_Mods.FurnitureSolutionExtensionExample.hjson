@@ -196,6 +196,168 @@ Items: {
 			Transform furnitures into Deadwood Furniture Set
 			'''
 	}
+
+	AbyssFurnitureSolution: {
+		DisplayName: Abyss Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Abyss Furniture Set
+			'''
+	}
+
+	AcidwoodFurnitureSolution: {
+		DisplayName: Acidwood Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Acidwood Furniture Set
+			'''
+	}
+
+	AncientFurnitureSolution: {
+		DisplayName: Ancient Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Ancient Furniture Set
+			'''
+	}
+
+	AshenFurnitureSolution: {
+		DisplayName: Ashen Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Ashen Furniture Set
+			'''
+	}
+
+	BotanicFurnitureSolution: {
+		DisplayName: Botanic Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Botanic Furniture Set
+			'''
+	}
+
+	CosmiliteFurnitureSolution: {
+		DisplayName: Cosmilite Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Cosmilite Furniture Set
+			'''
+	}
+
+	EutrophicFurnitureSolution: {
+		DisplayName: Eutrophic Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Eutrophic Furniture Set
+			'''
+	}
+
+	ExoFurnitureSolution: {
+		DisplayName: Exo Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Exo Furniture Set
+			'''
+	}
+
+	MonolithFurnitureSolution: {
+		DisplayName: Monolith Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Monolith Furniture Set
+			'''
+	}
+
+	OtherworldlyFurnitureSolution: {
+		DisplayName: Otherworldly Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Otherworldly Furniture Set
+			'''
+	}
+
+	PlaguedFurnitureSolution: {
+		DisplayName: Plagued Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Plagued Furniture Set
+			'''
+	}
+
+	ProfanedFurnitureSolution: {
+		DisplayName: Profaned Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Profaned Furniture Set
+			'''
+	}
+
+	SacrilegiousFurnitureSolution: {
+		DisplayName: Sacrilegious Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Sacrilegious Furniture Set
+			'''
+	}
+
+	SilvaFurnitureSolution: {
+		DisplayName: Silva Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Silva Furniture Set
+			'''
+	}
+
+	StatigelFurnitureSolution: {
+		DisplayName: Statigel Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Statigel Furniture Set
+			'''
+	}
+
+	StratusFurnitureSolution: {
+		DisplayName: Stratus Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Stratus Furniture Set
+			'''
+	}
+
+	VoidFurnitureSolution: {
+		DisplayName: Void Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Void Furniture Set
+			'''
+	}
+
+	WulfrumFurnitureSolution: {
+		DisplayName: Wulfrum Furniture Solution
+		Tooltip:
+			'''
+			Used by the Clentaminator
+			Transform furnitures into Wulfrum Furniture Set
+			'''
+	}
 }
 
 Projectiles: {
@@ -221,4 +383,22 @@ Projectiles: {
 	ShootingStarFurnitureSolutionProjectile.DisplayName: Shooting Star Furniture Solution
 	CelestialFurnitureSolutionProjectile.DisplayName: Celestial Furniture Solution
 	DeadwoodFurnitureSolutionProjectile.DisplayName: Deadwood Furniture Solution
+	AbyssFurnitureSolutionProjectile.DisplayName: Abyss Furniture Solution
+	AcidwoodFurnitureSolutionProjectile.DisplayName: Acidwood Furniture Solution
+	AncientFurnitureSolutionProjectile.DisplayName: Ancient Furniture Solution
+	AshenFurnitureSolutionProjectile.DisplayName: Ashen Furniture Solution
+	BotanicFurnitureSolutionProjectile.DisplayName: Botanic Furniture Solution
+	CosmiliteFurnitureSolutionProjectile.DisplayName: Cosmilite Furniture Solution
+	EutrophicFurnitureSolutionProjectile.DisplayName: Eutrophic Furniture Solution
+	ExoFurnitureSolutionProjectile.DisplayName: Exo Furniture Solution
+	MonolithFurnitureSolutionProjectile.DisplayName: Monolith Furniture Solution
+	OtherworldlyFurnitureSolutionProjectile.DisplayName: Otherworldly Furniture Solution
+	PlaguedFurnitureSolutionProjectile.DisplayName: Plagued Furniture Solution
+	ProfanedFurnitureSolutionProjectile.DisplayName: Profaned Furniture Solution
+	SacrilegiousFurnitureSolutionProjectile.DisplayName: Sacrilegious Furniture Solution
+	SilvaFurnitureSolutionProjectile.DisplayName: Silva Furniture Solution
+	StatigelFurnitureSolutionProjectile.DisplayName: Statigel Furniture Solution
+	StratusFurnitureSolutionProjectile.DisplayName: Stratus Furniture Solution
+	VoidFurnitureSolutionProjectile.DisplayName: Void Furniture Solution
+	WulfrumFurnitureSolutionProjectile.DisplayName: Wulfrum Furniture Solution
 }

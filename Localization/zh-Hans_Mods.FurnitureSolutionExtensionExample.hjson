@@ -196,6 +196,168 @@ Items: {
 			将家具转变为枯木家具套装
 			'''
 	}
+
+	AbyssFurnitureSolution: {
+		DisplayName: 深渊家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为深渊家具套装
+			'''
+	}
+
+	AcidwoodFurnitureSolution: {
+		DisplayName: 酸腐木家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为酸腐木家具套装
+			'''
+	}
+
+	AncientFurnitureSolution: {
+		DisplayName: 远古家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为远古家具套装
+			'''
+	}
+
+	AshenFurnitureSolution: {
+		DisplayName: 灰烬家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为灰烬家具套装
+			'''
+	}
+
+	BotanicFurnitureSolution: {
+		DisplayName: 植物家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为植物家具套装
+			'''
+	}
+
+	CosmiliteFurnitureSolution: {
+		DisplayName: 宇宙家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为宇宙家具套装
+			'''
+	}
+
+	EutrophicFurnitureSolution: {
+		DisplayName: 富养家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为富养家具套装
+			'''
+	}
+
+	ExoFurnitureSolution: {
+		DisplayName: 星流家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为星流家具套装
+			'''
+	}
+
+	MonolithFurnitureSolution: {
+		DisplayName: 星石家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为星石家具套装
+			'''
+	}
+
+	OtherworldlyFurnitureSolution: {
+		DisplayName: 异域家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为异域家具套装
+			'''
+	}
+
+	PlaguedFurnitureSolution: {
+		DisplayName: 瘟疫家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为瘟疫家具套装
+			'''
+	}
+
+	ProfanedFurnitureSolution: {
+		DisplayName: 渎神家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为渎神家具套装
+			'''
+	}
+
+	SacrilegiousFurnitureSolution: {
+		DisplayName: 渎圣家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为渎圣家具套装
+			'''
+	}
+
+	SilvaFurnitureSolution: {
+		DisplayName: 始源林海家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为始源林海家具套装
+			'''
+	}
+
+	StatigelFurnitureSolution: {
+		DisplayName: 斯塔提斯家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为斯塔提斯家具套装
+			'''
+	}
+
+	StratusFurnitureSolution: {
+		DisplayName: 幻云家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为幻云家具套装
+			'''
+	}
+
+	VoidFurnitureSolution: {
+		DisplayName: 虚空家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为虚空家具套装
+			'''
+	}
+
+	WulfrumFurnitureSolution: {
+		DisplayName: 钨钢家具溶液
+		Tooltip:
+			'''
+			由环境改造枪使用
+			将家具转变为钨钢家具套装
+			'''
+	}
 }
 
 Projectiles: {
@@ -221,4 +383,22 @@ Projectiles: {
 	ShootingStarFurnitureSolutionProjectile.DisplayName: 流影掠星家具溶液
 	CelestialFurnitureSolutionProjectile.DisplayName: 天界家具溶液
 	DeadwoodFurnitureSolutionProjectile.DisplayName: 枯木家具溶液
+	AbyssFurnitureSolutionProjectile.DisplayName: 深渊家具溶液
+	AcidwoodFurnitureSolutionProjectile.DisplayName: 酸腐木家具溶液
+	AncientFurnitureSolutionProjectile.DisplayName: 远古家具溶液
+	AshenFurnitureSolutionProjectile.DisplayName: 灰烬家具溶液
+	BotanicFurnitureSolutionProjectile.DisplayName: 植物家具溶液
+	CosmiliteFurnitureSolutionProjectile.DisplayName: 宇宙家具溶液
+	EutrophicFurnitureSolutionProjectile.DisplayName: 富养家具溶液
+	ExoFurnitureSolutionProjectile.DisplayName: 星流家具溶液
+	MonolithFurnitureSolutionProjectile.DisplayName: 星石家具溶液
+	OtherworldlyFurnitureSolutionProjectile.DisplayName: 异域家具溶液
+	PlaguedFurnitureSolutionProjectile.DisplayName: 瘟疫家具溶液
+	ProfanedFurnitureSolutionProjectile.DisplayName: 渎神家具溶液
+	SacrilegiousFurnitureSolutionProjectile.DisplayName: 渎圣家具溶液
+	SilvaFurnitureSolutionProjectile.DisplayName: 始源林海家具溶液
+	StatigelFurnitureSolutionProjectile.DisplayName: 斯塔提斯家具溶液
+	StratusFurnitureSolutionProjectile.DisplayName: 幻云家具溶液
+	VoidFurnitureSolutionProjectile.DisplayName: 虚空家具溶液
+	WulfrumFurnitureSolutionProjectile.DisplayName: 钨钢家具溶液
 }
