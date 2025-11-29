@@ -1,1 +1,21 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+这是家具溶液的拓展包兼示例包！
+拓展包内添加了对以下模组的支持：
+ExampleMod     1套家具
+灾厄	           18套家具
+瑟银            21套家具
+
+如有需要给自己的模组注册家具溶液
+或者给自己其它喜欢的模组制作拓展包
+请参阅README_zh.md，非常感谢
+
+English:
+
+This is an extension pack and an example of Furniture Solution!
+The packet add support of the mods below:
+ExampleMod     1 Furniture set
+Calamity       18 Furniture sets
+Thorium        21 Furniture sets
+
+If you need to Register some solutions for your own mod
+or make an extension pack for the mod you like
+You can read the README_en.md file, thanks
