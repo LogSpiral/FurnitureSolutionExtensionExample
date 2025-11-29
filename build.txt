@@ -1,5 +1,6 @@
 displayName = 家具溶液拓展包 FurnitureSolution Extension Pack
 author = 不要用溶液刷模组材料！！！
-version = 0.1
+version = 0.1.0.1
+homepage = https://github.com/LogSpiral/FurnitureSolutionExtensionExample
 modReferences = FurnitureSolution
 weakReferences = ExampleMod, ThoriumMod, CalamityMod
