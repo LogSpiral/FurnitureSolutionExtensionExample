@@ -43,7 +43,7 @@ internal class OtherworldlyFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "OtherworldlyFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/CalamityMod/OtherworldlyFurnitureSolution",
-            calamityMod.Find<ModDust>("OtherworldlyTileCloth").Type,
+            calamityMod.TryFind("OtherworldlyTileCloth", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );

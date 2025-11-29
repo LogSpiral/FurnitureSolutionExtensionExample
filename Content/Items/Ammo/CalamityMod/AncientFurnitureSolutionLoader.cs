@@ -5,7 +5,7 @@ namespace FurnitureSolutionExtensionExample.Content.Items.Ammo.CalamityMod;
 
 internal class AncientFurnitureSolutionLoader : FurnitureSolutionLoaderBase
 {
-    public override void AddSolution(Mod mod,Mod furnitureSolutionMod)
+    public override void AddSolution(Mod mod, Mod furnitureSolutionMod)
     {
         if (!ModLoader.TryGetMod("CalamityMod", out var calamityMod)) return;
 
@@ -43,9 +43,9 @@ internal class AncientFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "AncientFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/CalamityMod/AncientFurnitureSolution",
-            calamityMod.Find<ModDust>("BrimstoneFlame").Type,
+            calamityMod.TryFind("BrimstoneFlame", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );
-	}
+    }
 }

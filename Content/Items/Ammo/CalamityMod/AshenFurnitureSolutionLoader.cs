@@ -43,7 +43,7 @@ internal class AshenFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "AshenFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/CalamityMod/AshenFurnitureSolution",
-            calamityMod.Find<ModDust>("BrimstoneFlame").Type,
+            calamityMod.TryFind("BrimstoneFlame", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );

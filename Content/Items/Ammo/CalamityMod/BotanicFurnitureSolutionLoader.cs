@@ -43,7 +43,7 @@ internal class BotanicFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "BotanicFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/CalamityMod/BotanicFurnitureSolution",
-            calamityMod.Find<ModDust>("BloomTileLeaves").Type,
+            calamityMod.TryFind("BloomTileLeaves", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );

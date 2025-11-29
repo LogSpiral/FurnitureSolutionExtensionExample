@@ -43,7 +43,7 @@ internal class ExampleFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "ExampleFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/ExampleMod/ExampleFurnitureSolution",
-            exampleMod.Find<ModDust>("Sparkle").Type,
+            exampleMod.TryFind("Sparkle", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );

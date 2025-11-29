@@ -43,7 +43,7 @@ internal class SilvaFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "SilvaFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/CalamityMod/SilvaFurnitureSolution",
-            calamityMod.Find<ModDust>("SilvaTileGold").Type,
+            calamityMod.TryFind("SilvaTileGold", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );

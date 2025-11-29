@@ -43,7 +43,7 @@ internal class MonolithFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "MonolithFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/CalamityMod/MonolithFurnitureSolution",
-            calamityMod.Find<ModDust>("AstralBasic").Type,
+            calamityMod.TryFind("AstralBasic", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );

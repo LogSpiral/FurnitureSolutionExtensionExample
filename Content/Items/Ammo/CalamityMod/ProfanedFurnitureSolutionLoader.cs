@@ -43,7 +43,7 @@ internal class ProfanedFurnitureSolutionLoader : FurnitureSolutionLoaderBase
             mod,
             "ProfanedFurniture",
             "FurnitureSolutionExtensionExample/Content/Items/Ammo/CalamityMod/ProfanedFurnitureSolution",
-            calamityMod.Find<ModDust>("ProfanedTileRock").Type,
+            calamityMod.TryFind("ProfanedTileRock", out ModDust dust) ? dust.Type : 0,
             setRecipeContent,
             FurnitureSetData.ToArray(data)
             );
